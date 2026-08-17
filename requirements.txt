@@ -1,6 +1,4 @@
-requests
-bs4
-flask
-yarl
-pycryptodomex
+Flask
 gunicorn
+requests
+beautifulsoup4
